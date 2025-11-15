@@ -1,7 +1,6 @@
 ### Olá Eu sou o Alexandre Carneiro
 
-- 🔭 I’m currently working on Logistics, but also as a freelancer / Hoje trabalho com Logistica, mas tambem faço freelancer como  Desenvolvedor.
-- 🌱 I’m currently working HTML CSS JS React and NodeJS / Atualmente desenvolvendo com HTML CSS JS React and NodeJS
+- 🔭 I’m a software developer with 3 years of experience working primarily with JavaScript, Node.js, TypeScript, and React.js. I’m a communicative person who values teamwork and is always eager to learn and grow alongside my peers.
 - 😄 Pronouns: He/His / Pronomes: Ele/Dele
 
 <div align="center">
